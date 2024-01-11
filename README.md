@@ -12,4 +12,34 @@ This repository includes a visualization of different search algorithms. It cons
   Depth-First Search Visualization
 </p>
 
+## 2. Breadth first search
+
+<p align="center">
+  <img src="Graphics/BFS.gif" width="30%">
+</p>
+    
+<p align="center">
+  Breadth-First Search Visualization
+</p>
+
+## 3. Greedy search
+
+<p align="center">
+  <img src="Graphics/Greedy.gif" width="30%">
+</p>
+    
+<p align="center">
+  Greedy Search Visualization
+</p>
+
+## 4. A* search
+
+<p align="center">
+  <img src="Graphics/Astar.gif" width="30%">
+</p>
+    
+<p align="center">
+  A* Search Visualization
+</p>
+
 
