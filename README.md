@@ -5,7 +5,7 @@ This repository includes a visualization of different search algorithms. It cons
 ## 1. Depth first search
 
 <p align="center">
-  <img src="Graphics/DFS.gif" width="50%>
+  <img src="Graphics/DFS.gif" width="50%">
 </p>
     
 <p align="center">
