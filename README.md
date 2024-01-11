@@ -7,6 +7,7 @@ This repository includes a visualization of different search algorithms. It cons
 <p align="center">
   <img src="Graphics/DFS.gif" width="50%>
 </p>
+    
 <p align="center">
   Depth-First Search Visualization
 </p>
