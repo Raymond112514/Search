@@ -1,5 +1,5 @@
-## Search algorithms
+# Search Algorithm Visualization
 
-This repository contains an implementation of the search algorithm visualization. Two main classes are implemented: the environment class and the agent class. The environment class creates an environment that contains a target (red) and walls (black). The agent's goal is to interact with the environemnt and search for the target. Each agent has their own search method implemented. The environment class is implemented using the pygame module.
+This repository includes a visualization of different search algorithms. It consists of two main classes: the environment class and the agent class. The environment class creates a setup with a target (red) and walls (black), and the agent's task is to interact with the environment to search for the target. Each agent has its own implemented search method. The environment class is built using the pygame module.
 
-
+The following algorithms are implemented
